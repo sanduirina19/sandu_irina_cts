@@ -17,6 +17,5 @@ public class Main {
         valideazaBilet(validatorAutobuz);
         Adapter adapter = new Adapter(validatorMetrou);
         valideazaBilet(adapter);
-
     }
 }
